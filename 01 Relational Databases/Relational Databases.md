@@ -17,4 +17,4 @@ What makes a relational database is, as the name suggests, relations.
 
 We have a list of classes. That class will have a teacher. We also have a list of teachers. Therefore, the Classes table and the Teachers table are related.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Image of 2 boxes that hold headings of data that would be held in them. They are titled Teachers and Classes and have a line joining them on a heading that is the same in both of Class_Id](https://github.com/annemck/SQL_Teaching/blob/RelationalDatabases/images/SimpleRelationalDiagram.png?raw=true)
